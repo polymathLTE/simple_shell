@@ -1,0 +1,8 @@
+#emacs/vim temporary files
+~
+.swp
+
+#testing files
+/test_files
+sanitize.sh
+
