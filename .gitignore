@@ -5,4 +5,4 @@
 #testing files
 /test_files
 sanitize.sh
-
+generate-authors.sh
